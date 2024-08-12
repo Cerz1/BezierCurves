@@ -1,0 +1,24 @@
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\80_Lezione_10_06_BezierCurves.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\80_Lezione_10_06_BezierCurves.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\80_Lezione_10_06_BezierCurves.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\obj\Debug\80_Lezione_10_06_BezierCurves.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\obj\Debug\80_Lezione_10_06_BezierCurves.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\obj\Debug\80_Lezione_10_06_BezierCurves.csproj.CopyComplete
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\obj\Debug\80_Lezione_10_06_BezierCurves.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_BezierCurves\80_Lezione_10_06_BezierCurves\obj\Debug\80_Lezione_10_06_BezierCurves.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\80_Lezione_10_06_BezierCurves.exe.config
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\80_Lezione_10_06_BezierCurves.exe
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\80_Lezione_10_06_BezierCurves.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\aiv-fast2d.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\OpenTK.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\OpenTK.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\bin\Debug\OpenTK.xml
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\obj\Debug\80_Lezione_10_06_BezierCurves.csproj.AssemblyReference.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\obj\Debug\80_Lezione_10_06_BezierCurves.csproj.CoreCompileInputs.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\obj\Debug\80_Lezione_10_06_BezierCurves.exe
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\obj\Debug\80_Lezione_10_06_BezierCurves.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\BezierCurves\80_Lezione_10_06_BezierCurves\obj\Debug\80_Lezio.322CA5E9.Up2Date
